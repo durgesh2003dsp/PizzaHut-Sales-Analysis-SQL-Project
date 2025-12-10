@@ -117,8 +117,6 @@ Uses a CTE + window functions (ROW_NUMBER).
 
 #  **Key Insights & Findings**
 
-You can include this in your GitHub README as highlights:
-
 * **Classic & Supreme pizzas** generate the highest revenue.
 * **Large size pizzas** are the most frequently ordered.
 * Peak ordering hours occur around **12 PM – 2 PM** and **7 PM – 9 PM**.
